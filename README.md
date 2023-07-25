@@ -1,6 +1,6 @@
 # Login Automation with Cypress
 
-![Login Automation with Cypress](https://imgur.com/a/2H8EsvA)
+![Login Automation with Cypress](./asset/log_in.gif)
 
 ## Description
 
