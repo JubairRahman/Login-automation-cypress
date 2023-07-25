@@ -50,9 +50,7 @@ Contributions are welcome! If you find any issues or want to enhance the automat
 
 ## Support
 
-For any questions or suggestions, please :email: [open an issue](https://github.com/JubairRahman/cypress-gist-downloader/issues) or reach out to me on :briefcase: [LinkedIn](https://www.linkedin.com/in/jubair-rahman0/) or :speech_balloon: [Discord](https://discord.com/channels/1102626546142957679/1102626547262820374).
+For any questions or suggestions, please :email: [open an issue](https://github.com/JubairRahman/Login-automation-cypress/issues) or reach out to me on :briefcase: [![Linkedin](https://img.shields.io/badge/Linkedin-JubairRahman-orange)](https://www.linkedin.com/in/jubair-rahman0/) or :speech_balloon: [![Discord](https://img.shields.io/badge/Discord-JubairRahman-lightblue)](https://discord.com/channels/1102626546142957679/1102626547262820374).
 
-
----
 
 Happy automating! 🚀
