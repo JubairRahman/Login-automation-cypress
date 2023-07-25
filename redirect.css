@@ -1,0 +1,30 @@
+body {
+  /* Set the body to cover the full viewport height */
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background-color: #121212; /* Dark background color */
+}
+
+.container {
+  text-align: center;
+  max-width: 400px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #acedac, 0 0 20px #acedac, 0 0 30px #acedac;
+  /* Remove margin and align-items from .container */
+  margin: 0;
+}
+  
+  h1 {
+    color: #007bff;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+  }
