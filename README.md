@@ -2,6 +2,8 @@
 
 ![Login Automation with Cypress](./asset/log_in.gif)
 
+![Login Automation with Cypress](./asset/%20Imgur.gif)
+
 ## Description
 
 This repository contains a simple example of login automation using Cypress. The project demonstrates how to automate the login process on a login form and handle different scenarios such as successful login and invalid credentials.
