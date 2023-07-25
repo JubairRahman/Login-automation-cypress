@@ -41,7 +41,9 @@ npm install
 You can You can customize the **index.html** and **script.js** files in the project to match the login form of your application. Update the Cypress test in cypress/e2e/login_spec.cy.js accordingly to handle the specific behavior of your login form.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Contributing
 
