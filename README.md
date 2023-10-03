@@ -17,8 +17,8 @@ This repository contains a simple example of login automation using Cypress. The
 1. Clone the repository to your local machine:
 
 ```bash
-[git clone https://github.com/your-username/login-automation-cypress.git
-](https://github.com/JubairRahman/Login-automation-cypress.git)```
+https://github.com/JubairRahman/Login-automation-cypress.git
+```
 
 ## Navigate the Project folder
 
